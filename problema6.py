@@ -9,5 +9,5 @@ elif 4 <= edad <= 18:
 else:
     precio = 10  # Mayores de 18 años pagan $10
 
-# Paso 3: Mostrar el precio de la entrada
+# mostrar el precio de la entrada
 print(f"El precio de la entrada es: ${precio}")
